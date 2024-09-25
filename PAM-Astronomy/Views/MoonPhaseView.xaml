@@ -6,7 +6,7 @@
 
     <ContentPage.Resources>
         <ResourceDictionary>
-            <Color x:Key="textColor">White</Color>
+            <Color x:Key="textColor">Black</Color>
             <Color x:Key="boxColor">#44FFFFFF</Color>
             <Style TargetType="Label">
                 <Setter Property="TextColor" Value="{StaticResource textColor}" />
